@@ -1,0 +1,7 @@
+{
+  "name": "PostOffice API",
+  "version": "1.0.0",
+  "description": "Magyar megyék és városok CRUD REST API",
+  "title": "PostOffice API dokumentáció",
+  "url": "http://127.0.0.1:8000"
+}
